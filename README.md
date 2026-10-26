@@ -28,7 +28,7 @@ If you'd rather add it from Claude's menus:
 1. Open Claude on the web or in the desktop app and sign in.
 2. In the left sidebar, open **Customize**, then **Plugins**.
 3. Press **Add**, then **Add marketplace**, then **Add from a repository**.
-4. Paste this link and press **Sync**: **https://github.com/chad-m1realcapital/marcinai-plugin**
+4. Paste this link and press **Sync**: **https://github.com/m1realcapital/marcinai-plugin**
 5. **MarcinAI** appears under **Your plugins**; search "MarcinAI" if you don't see it. Open it and press **Add**.
 6. Start a new chat and type **Build my Fast 50**.
 

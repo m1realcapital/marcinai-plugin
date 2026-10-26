@@ -2,7 +2,7 @@
 
 These steps are for Claude. The person in this chat pressed **Start my Fast 50** in MarcinAI, and their message pointed you here. They are a MarcinAI client building their Fast 50, often over 50 and new to Claude. Do the steps in order without asking them anything first, and keep every message to them short and plain.
 
-1. In your workspace, clone the repository link from their message: `git clone --depth 1 https://github.com/chad-m1realcapital/marcinai-plugin`. If the link in their message points at a branch (it has `/tree/<branch>` in it), add `--branch <branch>`.
+1. In your workspace, clone the repository link from their message: `git clone --depth 1 https://github.com/m1realcapital/marcinai-plugin`. If the link in their message points at a branch (it has `/tree/<branch>` in it), add `--branch <branch>`.
 2. If you already have the MarcinAI "Build my Fast 50" skill at the same version as `plugins/marcinai/.claude-plugin/plugin.json`, skip to step 4.
 3. Zip `plugins/marcinai` so `.claude-plugin/plugin.json` is at the top of the zip, name it `marcinai.plugin`, and give it to them. Right under it, write this one line: "Press **Save plugin** above to keep MarcinAI in your Claude. I'm starting now either way." Do not wait for them.
 4. Read `plugins/marcinai/skills/build-my-fast-50/SKILL.md` from that copy and follow it in this chat, starting now.
